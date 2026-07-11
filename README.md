@@ -34,4 +34,4 @@ I am a **Full-Stack Software Engineer** focused on building robust, scalable, an
 ## Github Statistics and Contributions.
 
 <!-- GitHub Streak Stats (Updated Domain) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=akinolu52&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdwardIyanda1&theme=dark)](https://git.io/streak-stats)
